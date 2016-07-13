@@ -1,0 +1,13 @@
+{
+  "appname": "ISHIR",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "0002E72A-37F5-4844-ABAD-2A84D9F96D27",
+  "buyerid": "AnkitBuyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
